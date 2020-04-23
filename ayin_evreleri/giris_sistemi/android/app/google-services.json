@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "49813879233",
+    "firebase_url": "https://flutterlogin-d3345.firebaseio.com",
+    "project_id": "flutterlogin-d3345",
+    "storage_bucket": "flutterlogin-d3345.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49813879233:android:9cc8d4f8f52af9bd2a1740",
+        "android_client_info": {
+          "package_name": "com.example.giris_sistemi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49813879233-3m3p573h8sfgar3shfsh7elfi9994bl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB1YHSq7vw8jtoedM_1d6KnxDk-QxkCiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49813879233-3m3p573h8sfgar3shfsh7elfi9994bl8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
